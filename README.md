@@ -1,0 +1,2 @@
+- Hi, I’m Nguyễn Quốc Dương
+- I’m currently learning Cloud Developer using Microsoft Azure on Udacity
